@@ -1,0 +1,29 @@
+/build
+
+# Built application files
+*.apk
+*.aar
+*.ap_
+
+# Build outputs
+build/
+app/build/
+
+# Local config
+local.properties
+/local.properties
+# Gradle
+.gradle/
+*.iml
+
+# IDE
+.idea/
+*.orig
+
+# Signing files (IMPORTANT)
+*.keystore
+*.jks
+/captures
+.externalNativeBuild
+.cxx
+.DS_Store
