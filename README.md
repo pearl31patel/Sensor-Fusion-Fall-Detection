@@ -126,10 +126,3 @@ app/src/main/java/.../
 ## License
 
 This project is open source. Feel free to use, modify, and distribute it.
-
----
-
-## Author
-
-**Manoj Kumar Sanam**  
-[GitHub](https://github.com/manojkumarsanam)
